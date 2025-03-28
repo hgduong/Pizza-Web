@@ -1,0 +1,26 @@
+
+.custom-navbar {
+    background-image: url('https://img.freepik.com/free-photo/grunge-wall-texture_1194-6258.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.custom-navbar .nav-link {
+    color: white; 
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ddd; 
+}
+
+.custom-navbar .nav-dropdown-item {
+    color: white; 
+}
+
+.custom-navbar .nav-dropdown-item:hover {
+    color: #ddd; 
+}
+
+
+
+

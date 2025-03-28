@@ -1,0 +1,17 @@
+/* Banner.css */
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; /* Adjust the height as needed */
+    background-image: url('https://d3iqwsql9z4qvn.cloudfront.net/wp-content/uploads/2020/10/28142253/dominos-story-background.png');
+    background-size: cover;
+    background-position: center;
+    margin: 40px 0; /* Add margin top and bottom */
+}
+
+.banner-text {
+    font-size: 48px; /* Adjust the font size as needed */
+    font-weight: bold;
+    color: white; /* White text color to stand out against dark background */
+}

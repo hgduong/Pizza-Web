@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "user",
+      "address": "123 Main Stettttttt",
+      "role": "user"
+    },
+    {
+      "username": "anhtuan",
+      "password": "123",
+      "address": "Ha Noi",
+      "role": "user",
+      "id": "6"
+    },
+    {
+      "username": "user2",
+      "address": "The Sunflowers bloom beautifully in my ass",
+      "id": "7"
+    },
+    {
+      "username": "user1",
+      "password": "123",
+      "address": "The Sunflowers bloom beautifully in the summer fields.",
+      "role": "user",
+      "id": "9"
+    },
+    {
+      "username": "asdasd",
+      "password": "asdad",
+      "address": "Ha Noi",
+      "role": "user",
+      "id": "10"
+    },
+    {
+      "username": "ok",
+      "password": "ok",
+      "address": "ok",
+      "role": "user",
+      "id": "RTgSrG2"
+    },
+    {
+      "username": "usernametest",
+      "password": "usernametest",
+      "address": "usernametest",
+      "role": "user",
+      "id": "CXxAs1p"
+    },
+    {
+      "id": "30e4",
+      "username": "123",
+      "password": "12345",
+      "address": "123",
+      "role": "user"
+    },
+    {
+      "id": "ad50",
+      "username": "1234567",
+      "password": "1234567",
+      "address": "123",
+      "role": "user"
+    },
+    {
+      "id": "0ac3",
+      "username": "123455",
+      "password": "123455",
+      "address": "123455",
+      "role": "user"
+    },
+    {
+      "id": "2d85",
+      "username": "admin",
+      "password": "admin",
+      "address": "123",
+      "role": "user"
+    },
+    {
+      "id": "39b9",
+      "username": "admin",
+      "password": "admin",
+      "address": "123456789",
+      "role": "user"
+    },
+    {
+      "id": "8a83",
+      "username": "admin",
+      "password": "admin",
+      "address": "123",
+      "role": "user"
+    },
+    {
+      "id": "c56b",
+      "username": "user",
+      "password": "12345",
+      "address": "123abc",
+      "role": "user"
+    },
+    {
+      "id": "f4ef",
+      "username": "abcxyz",
+      "password": "123456",
+      "address": "Ha Noi",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "name": "Pepperoni",
+      "description": "Pepperoni pizza with a generous topping of pepperoni and cheese.",
+      "price": 12.99,
+      "image": "https://img.dominos.vn/Menu+BG+1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "BBQ Chicken",
+      "description": "Pizza topped with BBQ sauce, chicken, red onions, and cilantro.",
+      "price": 13.99,
+      "image": "https://img.dominos.vn/CHEESY+MADNESS+NO+NEW+PC.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Veggie",
+      "description": "Pizza loaded with mushrooms, bell peppers, onions, and olives.",
+      "price": 11.99,
+      "image": "https://img.dominos.vn/Pizza+Extra+Topping+(4).jpg"
+    },
+    {
+      "id": "5",
+      "name": "Hawaiian",
+      "description": "Pizza topped with ham, pineapple, and cheese.",
+      "price": 12.49,
+      "image": "https://img.dominos.vn/Pizzaminsea-Hai-San-Nhiet-Doi-Xot-Tieu.jpg"
+    },
+    {
+      "name": "New pizza delicous",
+      "description": "kinda delicous tbh ",
+      "price": 1.4,
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/8/23/0/FNM_100116-Classic-Crust_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1480972867043.jpeg",
+      "id": "6"
+    },
+    {
+      "name": "yummy tummy",
+      "description": "A very delicous pizza with a touch of tomato sauce but tons of cheese",
+      "price": 1.4,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/classic-cheese-pizza-recipe-2-64429a0cb408b.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*",
+      "id": "7"
+    },
+    {
+      "name": "yummy tummy",
+      "description": "A very delicous pizza with a touch of tomato sauce but tons of cheese",
+      "price": 1.4,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2023/03/Chocolate-pizza-a24aff9.jpg?quality=90&resize=556,505",
+      "id": "8"
+    },
+    {
+      "name": "Kisaya Kureha",
+      "description": "A very delicous pizza with a touch of tomato sauce but tons of cheese",
+      "price": 23,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D",
+      "id": "9"
+    },
+    {
+      "id": "6cb3",
+      "name": "Four Chees",
+      "description": "Pizza phủ phô mai Mozzarella, Cheddar, Parmesan và Blue Cheese.",
+      "price": 13.99,
+      "image": "https://kitchenatics.com/wp-content/uploads/2020/09/Cheese-pizza-1.jpg"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "638d",
+      "user": "Guest",
+      "cart": [
+        {
+          "id": "1",
+          "name": "Margherita",
+          "price": 10.99
+        }
+      ],
+      "address": "No Address"
+    },
+    {
+      "id": "902b",
+      "user": "Null",
+      "cart": [
+        {
+          "id": "1",
+          "name": "Margherita",
+          "price": 10.99
+        },
+        {
+          "id": "2",
+          "name": "Pepperoni",
+          "price": 12.99
+        }
+      ],
+      "address": "No Address"
+    }
+  ]
+}
